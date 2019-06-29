@@ -1,0 +1,6 @@
+This is a file2 of repo1
+
+
+line 5
+.file2.txt
+
